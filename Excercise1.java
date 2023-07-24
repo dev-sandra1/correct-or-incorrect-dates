@@ -23,13 +23,12 @@ public class Excercise1{
                     System.out.print("fecha incorrecta");
 
                 } else{
-                          System.out.print("la fecha es incorrecta, año incorrecto:C "); 
+                       System.out.print("la fecha es incorrecta, año incorrecto:C "); 
                 }             
             }
             else{
             System.out.print("la fecha es incorrecta, mes incorrecto :C ");
             }
-
 
         
         }else { 
